@@ -1,2 +1,3 @@
-print("What is your name?")
-print("Good luck,", input())
+Name = input("What is your name? ")
+Surname = input("What is your surname? ")
+print("Good luck,", Name, Surname)
